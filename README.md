@@ -67,6 +67,9 @@ I work at [**Lasting Dynamics**](https://www.lastingdynamics.com/), a product st
 | [**Morgen**](https://www.morgen.so/) | Frontend Team Lead | Cross-platform calendar &amp; task app (ETH Zurich spin-off) — web, Electron desktop &amp; mobile |
 | **Omne** (FWD Insurance) | Frontend Team Lead | Lifestyle + insurance super-app across **10+ Asian countries**, 200+ contributors, MVP in 6 months |
 | [**GivePayments**](https://www.givepayments.com/) | Backend Team Lead &amp; DevOps | **PCI DSS 4.0** FinTech platform — AI fraud detection, KYC/KYB, Kubernetes on AWS |
+| [**Shakadabra**](https://shakadabra.com/) | Tech Lead — Web / Mobile / Backend / AI | Video-first experience marketplace — verified video reviews, Google Gen + Vision AI, live in 5 countries |
+| [**Ronda Vet**](https://www.ronda.vet/) | Tech Lead — Web / Mobile / Backend / AI | UK veterinary locum marketplace — 130+ practices, 2,000+ locums, no agency middleman |
+| [**ENPACL**](https://www.enpacl.it/) | Tech Lead — Web / Mobile / Backend | Digital pension platform for an Italian national institution — SPID, PagoPA, ID-card scanning |
 | **Vetrinaverse** | Full-Stack &amp; Blockchain | NFT marketplace turning physical shops on-chain — smart contracts, IPFS, OpenSea compatibility |
 | **Internal Scrum AI agents** | AI Engineer | Multi-agent system simulating a full Scrum team (PO / dev / QA) for backlog automation |
 
