@@ -87,13 +87,6 @@ I work at [**Lasting Dynamics**](https://www.lastingdynamics.com/), a product st
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rafioo&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&icon_color=03b3c3&text_color=ffffff" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafioo&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&text_color=ffffff" alt="Top languages"/>
-</div>
-
----
-
-<div align="center">
   <i>"I build software that not only looks beautiful but thinks intelligently."</i><br/><br/>
   Off the keyboard: Judo black belt (15+ yrs) &middot; archery &middot; padel &middot; cooking Italian food
   <br/><br/>
