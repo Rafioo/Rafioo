@@ -18,7 +18,7 @@
 
 I'm a full-stack engineer with **8+ years** building production web, mobile, and blockchain systems — and for the **last 2 years** I've specialized in **AI engineering**: multi-agent orchestration, RAG pipelines, prompt engineering, and memory-optimized LLM applications.
 
-I work at [**Lasting Dynamics**](https://www.lastingdynamics.com/), a product studio delivering solutions to international clients, where I've grown from Mid-Level to Senior to **Team Leader** to **AI Engineer**. I lead both frontend and backend tracks and mentor junior developers. I care about systems that don't just *look* good but *think* — bridging polished interfaces with reasoning-capable backends.
+I worked at Lasting Dynamics, a product studio delivering solutions to international clients, where I've grown from Mid-Level to Senior to **Team Leader** to **AI Engineer**. I lead both frontend and backend tracks and mentor junior developers. I care about systems that don't just *look* good but *think* — bridging polished interfaces with reasoning-capable backends.
 
 > This is my **personal** account. My professional / client work lives at **[@rdg-rafio](https://github.com/rdg-rafio)**.
 
